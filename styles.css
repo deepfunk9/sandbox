@@ -2,6 +2,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.container {
+    border: solid 10px purple;
+    display: flex;
+
+}
+
 h1 {
     border: solid red;
     width: 100px;
@@ -11,6 +17,7 @@ h1 {
 h2 {
     border: solid green;
     background-color: bisque;
+    display: inline-block;
 }
 
 h3 {
@@ -20,11 +27,6 @@ h3 {
 
 h4 {
     border: solid grey;
-    height: 2000px;
+
 }
 
-.container {
-    border: solid 10px purple;
-    width: 200px;
-    height: 500px;
-}
