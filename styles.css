@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    border: solid red;
+    width: 100px;
+    background-color: brown;
+}
+
+h2 {
+    border: solid green;
+    background-color: bisque;
+}
+
+h3 {
+    border: solid black;
+    width: 100px;
+}
+
+h4 {
+    border: solid grey;
+    height: 2000px;
+}
+
+.container {
+    border: solid 10px purple;
+    width: 200px;
+    height: 500px;
+}
